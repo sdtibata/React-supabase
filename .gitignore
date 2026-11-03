@@ -1,0 +1,12 @@
+# dependencias y compilados
+node_modules
+dist
+
+# variables de entorno: nunca a GitHub
+.env
+.env.local
+
+# Android: GitHub Actions la genera en cada compilación
+android
+
+.DS_Store
